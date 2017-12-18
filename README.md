@@ -1,2 +1,1 @@
-# Ground-world
-逃げは何ってどこにいまります
+There's nothing here for you yet...
